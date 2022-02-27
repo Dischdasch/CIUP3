@@ -1,9 +1,11 @@
 # CIUP3
 
-Planet system with planets rotating around a sun. Additional Information about the single planets can be viewed by the user.
-![animacion](https://user-images.githubusercontent.com/44921828/155895880-bc288448-1737-4962-a534-e77bb01d21b1.gif)
+Sistema planetario con planetas que giran alrededor del sol. El usuario puede ver información adicional sobre los planetas individuales.
 
-The user can pause and resume the running system by pressing Space (as it is the case in many video applications) as well as view Information about the single planets by pressing enter. The according plantef to the information are highlighted while they are focused by the user. A mystical music accompanies the application. In the background stars are twinkling.
+![animacion](https://user-images.githubusercontent.com/44921828/155896119-e6f2b265-6332-49e6-947f-98fae754cd51.gif)
+
+
+El usuario puede pausar y reanudar la ejecución del sistema pulsando la tecla Space (como ocurre en muchas aplicaciones de vídeo), así como ver la información sobre los planetas individuales pulsando Enter. Los planetas correspondientes a la información se resaltan mientras son enfocados por el usuario. Una música mística acompaña a la aplicación. En el fondo titilan las estrellas.
 
 References: Sound https://www.dl-sounds.com/royalty-free/space-loop/, processing.org/references
 
